@@ -1,6 +1,6 @@
 # kuis_e_123190057
 
-A new Flutter project.
+Kuis PRAK TPM Hotel.
 
 ## Getting Started
 
